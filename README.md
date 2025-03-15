@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinatsuKano
 - 👀 I’m interested in Game development and Designing
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, C and C#
 - 💞️ I’m looking to collaborate on osu!
 - 📫 Mail: pahadibarfi@gmail.com
 - 😄 Pronouns: He/him
